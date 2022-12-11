@@ -1,0 +1,14 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "name": "Ankit Rana",
+            "psw": "paymentkrde"
+        },
+        {
+            "id": 2,
+            "name": "Dhruv Garg",
+            "psw": "paymentlele"
+        }
+    ]
+}
